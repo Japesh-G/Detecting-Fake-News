@@ -1,4 +1,4 @@
-Detecting Fake News with Python – Objective
+#Detecting Fake News with Python – Objective
 To build a model to accurately classify a piece of news as REAL or FAKE.
 
 # Detecting-Fake-News
